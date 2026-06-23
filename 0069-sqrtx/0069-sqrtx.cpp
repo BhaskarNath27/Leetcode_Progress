@@ -1,11 +1,13 @@
+#define ll long long
+
 class Solution {
 public:
     int mySqrt(int x) {
-        long long low=1;
-        long long high=x;
-        long long ans=0;
+        ll low=1;
+        ll high=x;
+        ll ans=0;
         while(low<=high){
-            long long mid=low+(high-low)/2;
+            ll mid=low+(high-low)/2;
             if(mid*mid<=x){
                 ans=mid;
                 low=mid+1;
