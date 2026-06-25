@@ -32,6 +32,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0367-valid-perfect-square) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
