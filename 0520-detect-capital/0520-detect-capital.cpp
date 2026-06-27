@@ -8,8 +8,6 @@ public:
             if(isupper(word[i])){
                 cnt++;
             }
-
-
         }
         if(cnt==n) return true;
         else if(cnt==0) return true;
