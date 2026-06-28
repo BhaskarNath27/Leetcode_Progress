@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0875-koko-eating-bananas) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -105,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0567-permutation-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
