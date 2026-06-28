@@ -16,7 +16,7 @@ public:
 
             reverse(word.begin(), word.end());
 
-            if(word.length() > 0) {
+            if(word.length()!=0) {
                 ans += " " + word;
             }
         }
