@@ -13,10 +13,7 @@ public:
                 word += s[i];
                 i++;
             }
-
-            
-
-            if(word.length()!=0) {
+            if(word!="") {
                 reverse(word.begin(), word.end());
                 ans += " " + word;
             }
