@@ -14,9 +14,10 @@ public:
                 i++;
             }
 
-            reverse(word.begin(), word.end());
+            
 
             if(word.length()!=0) {
+                reverse(word.begin(), word.end());
                 ans += " " + word;
             }
         }
