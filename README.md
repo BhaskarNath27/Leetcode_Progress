@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0912-sort-an-array) |
 | [1301-number-of-paths-with-max-score](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
@@ -121,16 +124,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0912-sort-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0912-sort-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0912-sort-an-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -144,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
