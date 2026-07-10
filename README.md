@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
@@ -35,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0875-koko-eating-bananas) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0567-permutation-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0011-container-with-most-water) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -144,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0912-sort-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -179,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0912-sort-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
