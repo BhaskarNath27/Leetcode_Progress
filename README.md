@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0912-sort-an-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0912-sort-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
