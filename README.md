@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2404-most-frequent-even-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2404-most-frequent-even-element) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0567-permutation-in-string) |
+| [2404-most-frequent-even-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2404-most-frequent-even-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0451-sort-characters-by-frequency) |
+| [2404-most-frequent-even-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2404-most-frequent-even-element) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
