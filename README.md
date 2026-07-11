@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0540-single-element-in-a-sorted-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0567-permutation-in-string) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0912-sort-an-array) |
