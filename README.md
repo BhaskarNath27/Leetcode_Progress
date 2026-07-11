@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0912-sort-an-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0875-koko-eating-bananas) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0567-permutation-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0567-permutation-in-string) |
 | [2404-most-frequent-even-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2404-most-frequent-even-element) |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0912-sort-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
