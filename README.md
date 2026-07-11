@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0912-sort-an-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0567-permutation-in-string) |
 | [2404-most-frequent-even-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2404-most-frequent-even-element) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0451-sort-characters-by-frequency) |
 | [2404-most-frequent-even-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2404-most-frequent-even-element) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0912-sort-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -156,12 +161,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0912-sort-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0912-sort-an-array) |
 ## Breadth-First Search
@@ -196,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
