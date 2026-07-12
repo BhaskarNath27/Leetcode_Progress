@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0414-third-maximum-number) |
+| [0539-minimum-time-difference](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0912-sort-an-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0367-valid-perfect-square) |
+| [0539-minimum-time-difference](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0539-minimum-time-difference) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0520-detect-capital) |
+| [0539-minimum-time-difference](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0709-to-lower-case) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0451-sort-characters-by-frequency) |
+| [0539-minimum-time-difference](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0539-minimum-time-difference) |
 | [0912-sort-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0912-sort-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
