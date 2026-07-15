@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0367-valid-perfect-square) |
 | [0539-minimum-time-difference](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0539-minimum-time-difference) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
