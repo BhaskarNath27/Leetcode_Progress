@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0876-middle-of-the-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
@@ -240,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2685-count-the-number-of-complete-components) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
