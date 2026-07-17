@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2446-determine-if-two-events-have-conflict](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3312-sorted-gcd-pair-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0875-koko-eating-bananas) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3312-sorted-gcd-pair-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0367-valid-perfect-square) |
 | [0539-minimum-time-difference](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0539-minimum-time-difference) |
+| [3312-sorted-gcd-pair-queries](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0258-add-digits) |
+| [3312-sorted-gcd-pair-queries](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -128,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1331-rank-transform-of-an-array) |
 | [2404-most-frequent-even-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2404-most-frequent-even-element) |
+| [3312-sorted-gcd-pair-queries](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -159,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0451-sort-characters-by-frequency) |
 | [2404-most-frequent-even-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2404-most-frequent-even-element) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3312-sorted-gcd-pair-queries](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
@@ -253,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
