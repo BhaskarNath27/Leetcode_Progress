@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0461-hamming-distance](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0461-hamming-distance) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
 |  |
