@@ -265,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3312-sorted-gcd-pair-queries) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
