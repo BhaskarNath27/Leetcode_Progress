@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2404-most-frequent-even-element](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2404-most-frequent-even-element) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0367-valid-perfect-square) |
 | [0539-minimum-time-difference](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0539-minimum-time-difference) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -270,4 +273,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0595-big-countries](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1757-recyclable-and-low-fat-products) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BhaskarNath27/Leetcode_Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
